@@ -1,0 +1,10 @@
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+
+#질문 명령어 쿨타임(초)
+QuestionCooltime: 60
+
+#답변 명령어 쿨타임(초)
+AnswerCooltime: 40
+
+#KiteQnA.A.Cooltime 권한이 있는 사람의 답변 명령어 쿨타임(초)
+AnswerCooltimeSpecial: 5
